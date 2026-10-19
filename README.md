@@ -1,70 +1,46 @@
 <!-- 01 // IDENTITY -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile-v2.svg">
-  <img width="840" src="assets/profile-header-v2.svg" alt="0xsan7 // Santiago Jerald. Systems builder. B.Tech CSE at SRM University-AP. Security, embedded hardware, robotics.">
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile-v3.svg">
+  <img width="840" src="assets/profile-header-v3.svg" alt="0xsan7 // Santiago Jerald. Cybersecurity and IoT. B.Tech CSE at SRM University-AP. Goa to Amaravati.">
 </picture>
 
-[`projects`](#02--projects_and_repos) / [`builds`](#03--hardware_and_builds) / [`stack`](#04--stack_and_tools) / [`links`](#05--contact_and_links)
+[`interests`](#02--interests_and_contributions) / [`contributions`](#02--interests_and_contributions) / [`stack`](#03--stack_and_tools) / [`contact`](#04--contact_and_links)
 
-I build security tools, embedded systems, and browser-based utilities. B.Tech CSE at SRM University-AP. From Goa, based in Amaravati.
+B.Tech CSE at SRM University-AP. From Goa, based in Amaravati. Interested in cybersecurity, IoT, and the systems connecting networks, devices, and edge computing.
 
 ---
 
-<a id="02--projects_and_repos"></a>![02 // PROJECTS_AND_REPOS](assets/02-projects.svg)
+<a id="02--interests_and_contributions"></a>![02 // INTERESTS_AND_CONTRIBUTIONS](assets/02-v3.svg)
 
-| `~/src/` | Specification |
+| Interested tech domains | Contributions |
 | :--- | :--- |
-| **[Argus](https://github.com/0xsan7/Argus)**<br>`Python / SHAP / Gemma` | Local SOC console. ML threat prediction, explainable risk attribution, local LLM triage.<br>`[!]` 3rd runner up / Sudo Hacktober (MLH). [Demo / post](https://x.com/0xsan7/status/2110587250711072974). |
-| **[SCRAM](https://github.com/0xsan7/SCRAM)**<br>`Go / Supply-chain security` | Fail-closed dependency auditing. Six lockfile ecosystems. PR dependency diffs.<br>`v0.1.0` / [Go docs](https://pkg.go.dev/github.com/0xsan7/scram/cmd/scram) / [Release](https://github.com/0xsan7/SCRAM/releases/tag/v0.1.0). |
-| **[Spectrum Mapper](https://github.com/0xsan7/spectrum-mapper)**<br>`Node.js / Canvas / RF` | 2.4 GHz coverage simulation. Path loss, wall attenuation, RSSI trilateration.<br>`v1.1.0` / [Live demo](https://spectrum-mapper-demo.onrender.com) / [Build thread](https://x.com/0xsan7/status/2105906934494732436). |
-| **[ASCII Art Generator](https://github.com/0xsan7/ascii-art-generator)**<br>`Python / JS / CLI` | Images and text -> monochrome character matrices. Terminal-ready output. |
-
----
-
-<a id="03--hardware_and_builds"></a>![03 // HARDWARE_AND_BUILDS](assets/03-builds.svg)
+| **`[01] CYBERSECURITY`**<br>Network security, SOC tooling, software supply-chain security, explainable threat detection. | **[Activity log](https://github.com/0xsan7#js-contribution-activity-description)**<br>Live public contribution activity. |
+| **`[02] IoT / EMBEDDED`**<br>Microcontrollers, connected devices, sensor data, TinyML / Edge AI, RF coverage and simulation. | **[Pull requests](https://github.com/search?q=author%3A0xsan7+is%3Apr&type=pullrequests)** / **[Issues](https://github.com/search?q=author%3A0xsan7+is%3Aissue&type=issues)**<br>Authored PRs and issue discussions. |
 
 ```text
-~/workbench/
-|
-+-- PulseGuard
-|   ESP32 + MPU6050 / C++ / TinyML
-|   Machine-vibration anomaly detection. Inference on-device.
-|
-+-- High-speed line tracker
-|   ESP32 + QTR-8RC + N20 motors + TB6612FNG
-|   Eight-channel reflectance sensing. Closed-loop PID control.
-|
-`-- Polaroid audio-lyric app
-    HTML + CSS + JavaScript / Web Audio API
-    Photo gallery. Timestamp-synchronized audio and lyrics.
+INTEREST MAP
+
+network  -------->  device  -------->  edge
+security             IoT              TinyML
 ```
 
 ---
 
-<a id="04--stack_and_tools"></a>![04 // STACK_AND_TOOLS](assets/04-stack.svg)
+<a id="03--stack_and_tools"></a>![03 // STACK_AND_TOOLS](assets/03-v3.svg)
 
-| Layer | Tools |
+| Layer | Tech stack |
 | :--- | :--- |
 | Languages | `Go` / `C` / `C++` / `Python` / `JavaScript` |
 | Web | `Node.js` / `Express` / `HTML` / `CSS` / `Canvas` |
-| Boards | `ESP32` / `STM32` / `Arduino` / `Raspberry Pi` / `Jetson Nano` |
-| Components | `MPU6050` / `QTR-8RC` / `TB6612FNG` / `N20 motors` |
+| Embedded | `ESP32` / `STM32` / `Arduino` / `Raspberry Pi` / `Jetson Nano` |
 | ML / Edge | `SHAP` / `Gemma` / `TinyML` / `Edge Impulse` |
 | Workflow | `GitHub Actions` / `Fuzz testing` / `CLI tooling` |
 
-```text
-FOCUS  Network + supply-chain security
-       Embedded systems + robotics
-       TinyML + Edge AI / RF simulation
-```
-
 ---
 
-<a id="05--contact_and_links"></a>![05 // CONTACT_AND_LINKS](assets/05-links.svg)
+<a id="04--contact_and_links"></a>![04 // CONTACT_AND_LINKS](assets/04-v3.svg)
 
-[**`[build.log / X]`**](https://x.com/0xsan7) [**`[linkedin]`**](https://www.linkedin.com/in/santiago-jerald-6bb082381/) [**`[go.pkg / SCRAM]`**](https://pkg.go.dev/github.com/0xsan7/scram/cmd/scram)
-
-Build notes and demos on X. Project source and documentation linked above.
+[**`[github]`**](https://github.com/0xsan7) [**`[X / @0xsan7]`**](https://x.com/0xsan7) [**`[linkedin]`**](https://www.linkedin.com/in/santiago-jerald-6bb082381/)
 
 ```text
 END OF FILE                                             0xsan7(1)
