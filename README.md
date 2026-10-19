@@ -1,7 +1,7 @@
 <!-- 01 // IDENTITY -->
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg">
-  <img src="assets/profile-header.svg" alt="0xsan7 // Santiago Jerald. Undergraduate researcher. Systems security, embedded hardware, robotics.">
+  <img width="840" src="assets/profile-header.svg" alt="0xsan7 // Santiago Jerald. Undergraduate researcher. Systems security, embedded hardware, robotics.">
 </picture>
 
 [`sources`](#02--code_and_hardware) / [`research`](#03--research_and_quantum) / [`ops`](#04--leadership_and_ops) / [`toolchain`](#05--toolchain_and_links) / [`build log`](https://x.com/0xsan7)
