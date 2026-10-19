@@ -1,7 +1,7 @@
 <!-- 01 // IDENTITY -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg">
-  <img width="840" src="assets/profile-header.svg" alt="0xsan7 // Santiago Jerald. Systems builder. B.Tech CSE at SRM University-AP. Security, embedded hardware, robotics.">
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile-v2.svg">
+  <img width="840" src="assets/profile-header-v2.svg" alt="0xsan7 // Santiago Jerald. Systems builder. B.Tech CSE at SRM University-AP. Security, embedded hardware, robotics.">
 </picture>
 
 [`projects`](#02--projects_and_repos) / [`builds`](#03--hardware_and_builds) / [`stack`](#04--stack_and_tools) / [`links`](#05--contact_and_links)
@@ -10,7 +10,7 @@ I build security tools, embedded systems, and browser-based utilities. B.Tech CS
 
 ---
 
-<a id="02--projects_and_repos"></a>![02 // PROJECTS_AND_REPOS](assets/02-section.svg)
+<a id="02--projects_and_repos"></a>![02 // PROJECTS_AND_REPOS](assets/02-projects.svg)
 
 | `~/src/` | Specification |
 | :--- | :--- |
@@ -21,7 +21,7 @@ I build security tools, embedded systems, and browser-based utilities. B.Tech CS
 
 ---
 
-<a id="03--hardware_and_builds"></a>![03 // HARDWARE_AND_BUILDS](assets/03-section.svg)
+<a id="03--hardware_and_builds"></a>![03 // HARDWARE_AND_BUILDS](assets/03-builds.svg)
 
 ```text
 ~/workbench/
@@ -41,7 +41,7 @@ I build security tools, embedded systems, and browser-based utilities. B.Tech CS
 
 ---
 
-<a id="04--stack_and_tools"></a>![04 // STACK_AND_TOOLS](assets/04-section.svg)
+<a id="04--stack_and_tools"></a>![04 // STACK_AND_TOOLS](assets/04-stack.svg)
 
 | Layer | Tools |
 | :--- | :--- |
@@ -60,7 +60,7 @@ FOCUS  Network + supply-chain security
 
 ---
 
-<a id="05--contact_and_links"></a>![05 // CONTACT_AND_LINKS](assets/05-section.svg)
+<a id="05--contact_and_links"></a>![05 // CONTACT_AND_LINKS](assets/05-links.svg)
 
 [**`[build.log / X]`**](https://x.com/0xsan7) [**`[linkedin]`**](https://www.linkedin.com/in/santiago-jerald-6bb082381/) [**`[go.pkg / SCRAM]`**](https://pkg.go.dev/github.com/0xsan7/scram/cmd/scram)
 
