@@ -1,21 +1,21 @@
 <!-- 01 // IDENTITY -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile-v3.svg">
-  <img width="840" src="assets/profile-header-v3.svg" alt="0xsan7 // Santiago Jerald. Cybersecurity and IoT. B.Tech CSE at SRM University-AP. Goa to Amaravati.">
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile-v4.svg">
+  <img width="840" src="assets/profile-header-v4.svg" alt="0xsan7 // Santiago Jerald. Cybersecurity and IoT. B.Tech CSE at SRM University-AP. Goa to Amaravati.">
 </picture>
 
-[`interests`](#02--interests_and_contributions) / [`contributions`](#02--interests_and_contributions) / [`stack`](#03--stack_and_tools) / [`contact`](#04--contact_and_links)
+[`interests`](#02--interests) / [`stack`](#03--stack_and_tools) / [`contact`](#04--contact_and_links)
 
 B.Tech CSE at SRM University-AP. From Goa, based in Amaravati. Interested in cybersecurity, IoT, and the systems connecting networks, devices, and edge computing.
 
 ---
 
-<a id="02--interests_and_contributions"></a>![02 // INTERESTS_AND_CONTRIBUTIONS](assets/02-v3.svg)
+<a id="02--interests"></a>![02 // TECH_INTERESTS](assets/02-v4.svg)
 
-| Interested tech domains | Contributions |
+| Domain | Interests |
 | :--- | :--- |
-| **`[01] CYBERSECURITY`**<br>Network security, SOC tooling, software supply-chain security, explainable threat detection. | **[Activity log](https://github.com/0xsan7#js-contribution-activity-description)**<br>Live public contribution activity. |
-| **`[02] IoT / EMBEDDED`**<br>Microcontrollers, connected devices, sensor data, TinyML / Edge AI, RF coverage and simulation. | **[Pull requests](https://github.com/search?q=author%3A0xsan7+is%3Apr&type=pullrequests)** / **[Issues](https://github.com/search?q=author%3A0xsan7+is%3Aissue&type=issues)**<br>Authored PRs and issue discussions. |
+| **`CYBERSECURITY`** | Network security, SOC tooling, software supply-chain security, explainable threat detection. |
+| **`IoT / EMBEDDED`** | Microcontrollers, connected devices, sensor data, TinyML / Edge AI, RF coverage and simulation. |
 
 ```text
 INTEREST MAP
