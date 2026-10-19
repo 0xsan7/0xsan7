@@ -20,8 +20,8 @@ B.Tech CSE at SRM University-AP. From Goa, based in Amaravati. Interested in cyb
 ```text
 INTEREST MAP
 
-network  -------->  device  -------->  edge
-security             IoT              TinyML
+network  --------  device  --------  edge
+security            IoT              TinyML
 ```
 
 ---
@@ -40,7 +40,7 @@ security             IoT              TinyML
 
 <a id="04--contact_and_links"></a>![04 // CONTACT_AND_LINKS](assets/04-v3.svg)
 
-[**`[github]`**](https://github.com/0xsan7) [**`[X / @0xsan7]`**](https://x.com/0xsan7) [**`[linkedin]`**](https://www.linkedin.com/in/santiago-jerald-6bb082381/)
+[**`[X / @0xsan7]`**](https://x.com/0xsan7)|[**`[linkedin]`**](https://www.linkedin.com/in/santiago-jerald-6bb082381/)
 
 ```text
 END OF FILE                                             0xsan7(1)
