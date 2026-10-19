@@ -20,8 +20,8 @@ B.Tech CSE at SRM University-AP. From Goa, based in Amaravati. Interested in cyb
 ```text
 INTEREST MAP
 
-network  --------  device  --------  edge
-security            IoT              TinyML
+network  <-------->  device  <-------->  edge
+security              IoT              TinyML
 ```
 
 ---
