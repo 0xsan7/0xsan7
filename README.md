@@ -32,7 +32,7 @@ security            IoT              TinyML
 | :--- | :--- |
 | Languages | `Go` / `C` / `C++` / `Python` / `JavaScript` |
 | Web | `Node.js` / `Express` / `HTML` / `CSS` / `Canvas` |
-| Embedded | `ESP32` / `STM32` / `Arduino` / `Raspberry Pi` / `Jetson Nano` |
+| Embedded | `ESP32` / `STM32` / `Arduino Uno Q` / `Raspberry Pi` / `Jetson Nano` / |
 | ML / Edge | `SHAP` / `Gemma` / `TinyML` / `Edge Impulse` |
 | Workflow | `GitHub Actions` / `Fuzz testing` / `CLI tooling` |
 
